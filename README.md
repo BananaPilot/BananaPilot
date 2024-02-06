@@ -2,7 +2,7 @@
 ## 🧑🏻‍💻 About me
 - ⚙️ Always exploring new technologies and new ways to improve my workflow
 - 🎓 Now studing back-end development at [Develhope](https://www.develhope.co/it/sign-up/)
-- 💼 Working on developing leadership and actively developing my soft-skills
+- 💼 Developing leadership and actively enhacing my soft-skills
 - 🌱 Learning more about testing, code architecture and clean code design
 
 ## 🛠️ My tech stack
