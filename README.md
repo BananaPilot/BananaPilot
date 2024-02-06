@@ -1,4 +1,4 @@
-### 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="22px">
+# 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="22px">
 ## 🧑🏻‍💻 About me :
 <hr style="height: 1px">
 
