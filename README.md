@@ -14,4 +14,4 @@
 - 📜 mySQL | postgreSQL | MongoDB
 - 🔧 Git | Obsidian | Trello | Slack | Discord | Figma
 
-[Fabio's GitHub stats](https://github-readme-stats.vercel.app/api?username=BananaPilot&hide=["stars"]&show_icons=true)
+![Fabio's GitHub stats](https://github-readme-stats.vercel.app/api?username=BananaPilot&hide=["stars"]&show_icons=true)
