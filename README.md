@@ -1,7 +1,7 @@
 # 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="22px">
 ## 🧑🏻‍💻 About me
 - ⚙️ Always exploring new technologies and new ways to improve my workflow
-- 🎓 Now studing back-end development at [Develhope](https://www.develhope.co/it/sign-up/)
+- 🎓 Now studying back-end development at [Develhope](https://www.develhope.co/it/sign-up/)
 - 💼 Developing leadership and actively enhancing my soft-skills
 - 🌱 Learning more about testing, code architecture and clean code design
 
