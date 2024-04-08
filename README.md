@@ -14,9 +14,9 @@
 
 ## ⚛️ Stats
 
-![Fabio's GitHub stats](https://github-readme-stats.vercel.app/api?username=BananaPilot&hide=["stars"]&show_icons=true)
+![Fabio's GitHub stats](https://github-readme-stats.vercel.app/api?username=BananaPilot&hide=[%22stars%22]&show_icons=true&theme=onedark)
 
-![Fabio's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BananaPilot&theme=buefy&layout=compact)
+![Fabio's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BananaPilot&theme=buefy&layout=compact&theme=onedark)
 
 ## 🤝 Contact me
 
