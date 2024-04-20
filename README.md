@@ -14,8 +14,6 @@
 
 ## ⚛️ Stats
 
-![Fabio's score](https://gitroll.io/profile/un3qs7sYfabQvdQGxH66pofg56YI2)
-
 ![Fabio's GitHub stats](https://github-readme-stats.vercel.app/api?username=BananaPilot&hide=[%22stars%22]&show_icons=true&theme=onedark)
 
 ![Fabio's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BananaPilot&theme=onedark&layout=donut-vertical)
